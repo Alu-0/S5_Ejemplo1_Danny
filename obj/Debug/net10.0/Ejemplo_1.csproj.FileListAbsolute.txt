@@ -1,0 +1,15 @@
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\bin\Debug\net10.0\Ejemplo_1.exe
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\bin\Debug\net10.0\Ejemplo_1.deps.json
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\bin\Debug\net10.0\Ejemplo_1.runtimeconfig.json
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\bin\Debug\net10.0\Ejemplo_1.dll
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\bin\Debug\net10.0\Ejemplo_1.pdb
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\Ejemplo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\Ejemplo_1.AssemblyInfoInputs.cache
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\Ejemplo_1.AssemblyInfo.cs
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\Ejemplo_1.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\Ejemplo_1.sourcelink.json
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\Ejemplo_1.dll
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\refint\Ejemplo_1.dll
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\Ejemplo_1.pdb
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\Ejemplo_1.genruntimeconfig.cache
+C:\Users\Docente\Downloads\Alu FP\Csharp\S5\Ejemplo_1\obj\Debug\net10.0\ref\Ejemplo_1.dll
